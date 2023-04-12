@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="sparkscala2020">
+    <profile name="Maven 1" modules="fdd.reporting.rpcu,sparkscala2020">
       <parameters>
         <parameter value="-dependencyfile" />
         <parameter value="C:\Users\cielo\IdeaProjects\sparkscala2020\target/.scala_dependencies" />
